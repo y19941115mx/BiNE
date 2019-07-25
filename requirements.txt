@@ -1,7 +1,8 @@
-numpy
-pandas
+python==2.7.11
+numpy==1.13.3
 sklearn
-networkx
-datasketch
-scipy
-six
+networkx==1.11
+datasketch==1.2.5
+scipy==0.17.0
+six==1.10.0
+pandas
