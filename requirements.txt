@@ -1,5 +1,5 @@
 numpy==1.13.3
-sklearn==0.17.1
+sklearn
 networkx==1.11
 datasketch==1.2.5
 scipy==0.17.0
